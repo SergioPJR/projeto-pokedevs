@@ -5,7 +5,7 @@ Sendo meu primeiro projeto da jornada do Zero ao programador, confesso que achav
 
 O projeto se trata de uma tabela de "POKEDEVS" que nada mais é que uma coisa baseada em Pokémons rsrs, mas nela encontramos seus pokedevs, elementos, ID e descrição, totalizando um total de 6 pokedevs. Neles, cada um tem suas características específicas.
 
-[<img src="./animação-pokedev.gif" alt="funcionamento do meu primeiro projeto pokedevs">]
+[<img src="./animacao-pokedev.gif" alt="funcionamento do meu primeiro projeto pokedevs">]
 
 ## Tecnologias utilizadas
 - HTML
